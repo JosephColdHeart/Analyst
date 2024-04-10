@@ -29,7 +29,7 @@ SELECT  platform_name,
       	AVG(global_sales) as average_revenue_per_game,
       	SUM(global_sales)*1.0 /
       	COUNT(DISTINCT platform_name) as average_revenue_per_platform
-FROM  public.game_db
+FROM  game_db
 WHERE sales_start >= '2010-01-01'
         AND genre = 'Shooter'
 GROUP BY platform_name
