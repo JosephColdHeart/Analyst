@@ -11,3 +11,4 @@ https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sa
 Проект в Tableu Public:
 https://public.tableau.com/app/profile/egor.ivanov/viz/SuperstoreAnalytics_17156816822640/Dashboard1
 
+<p>В Tableu Public можно загрузить dashboard в разных форматах и посмотреть отдельно каждую страницу, использовать фильтры и сортировки.</p>
