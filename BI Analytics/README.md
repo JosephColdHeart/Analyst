@@ -1,6 +1,6 @@
-# Создание Dashboard в Tableu  
+# Dashboard в Tableau  
 
-При переходе на ссылки Tableu используйте VPN
+При переходе на ссылки Tableau используйте VPN
 
 Ссылка на датасет:
 https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
