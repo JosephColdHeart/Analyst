@@ -12,3 +12,7 @@ https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sa
 https://public.tableau.com/app/profile/egor.ivanov/viz/SuperstoreAnalytics_17156816822640/Dashboard1
 
 >В Tableu Public можно загрузить dashboard в разных форматах и посмотреть отдельно каждую страницу, использовать фильтры и сортировки
+
+# Dashboard в Power BI
+![Screenshot_1](https://github.com/user-attachments/assets/893084bd-d44f-4b14-8c51-9bf64c0dadeb)
+>Все страницы дэшборда находятся в этой директории в файле PowerBI.pdf
